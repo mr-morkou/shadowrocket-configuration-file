@@ -67,11 +67,6 @@ DOMAIN-SUFFIX,zona.media
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,sound-effects.bbcrewind.co.uk
 DOMAIN-SUFFIX,ichef.bbci.co.uk
-DOMAIN-SUFFIX,nav.files.bbci.co.uk
-DOMAIN-SUFFIX,emp.files.bbci.co.uk
-DOMAIN-SUFFIX,rmp.files.bbci.co.uk
-DOMAIN-SUFFIX,static.files.bbci.co.uk
-DOMAIN-SUFFIX,sounds.files.bbci.co.uk
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,kahoot
@@ -83,4 +78,5 @@ DOMAIN-KEYWORD,mixcloud
 DOMAIN-KEYWORD,bandcamp
 DOMAIN-KEYWORD,digitalocean
 DOMAIN-KEYWORD,files.bbci.co.uk
+DOMAIN-KEYWORD,bbci.co.uk
 
