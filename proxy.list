@@ -73,7 +73,6 @@ DOMAIN-SUFFIX,nav.files.bbci.co.uk
 DOMAIN-SUFFIX,rmp.files.bbci.co.uk
 DOMAIN-SUFFIX,static.files.bbci.co.uk
 DOMAIN-SUFFIX,sounds.files.bbci.co.uk
-DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,kahoot
@@ -85,6 +84,8 @@ DOMAIN-KEYWORD,mixcloud
 DOMAIN-KEYWORD,bandcamp
 DOMAIN-KEYWORD,digitalocean
 DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,oaistatic
 
 
 
