@@ -75,6 +75,8 @@ DOMAIN-SUFFIX,static.files.bbci.co.uk
 DOMAIN-SUFFIX,sounds.files.bbci.co.uk
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,anythingllm.com
+DOMAIN-SUFFIX, wa.me
+DOMAIN-SUFFIX, whatsappbrand.com
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,kahoot
@@ -87,6 +89,8 @@ DOMAIN-KEYWORD,digitalocean
 DOMAIN-KEYWORD,chatgpt 
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,oaistatic
+DOMAIN-KEYWORD, whatsapp
+DOMAIN-KEYWORD, whatsapp-plus
 
 
 
