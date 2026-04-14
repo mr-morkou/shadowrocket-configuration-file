@@ -92,7 +92,7 @@ DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsappbrand.com
 DOMAIN-SUFFIX,thenewtab.io
-# ТГ
+# TG
 IP-CIDR,5.28.192.0/21
 IP-CIDR,5.28.248.0/21
 IP-CIDR,91.105.192.0/23
@@ -109,7 +109,7 @@ IP-CIDR,185.76.151.0/24
 IP-CIDR6,2001:67c:4e8::/48
 IP-CIDR6,2001:b28:f23c::/46
 IP-CIDR6,2a0a:f280::/29
-# CDN которые ТГ использует, Google, Fastly, Cloudflare, прочие
+# CDN 
 8.6.112.0/32
 34.149.117.202/32
 3.173.21.63/32
