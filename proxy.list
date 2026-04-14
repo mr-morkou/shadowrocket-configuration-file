@@ -12,9 +12,6 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,oaistatic
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,whatsapp-plus
-# kinopubb
-DOMAIN-KEYWORD,cdntogo
-# kinopubb
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
@@ -95,6 +92,7 @@ DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsappbrand.com
 DOMAIN-SUFFIX,thenewtab.io
+DOMAIN-SUFFIX,api.teleos.club
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,gfw.ovh
