@@ -97,8 +97,6 @@ DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,gfw.ovh
 DOMAIN-SUFFIX,mos-gorsud.co
-DOMAIN-SUFFIX,dropoverapp.com
-
 # TG
 IP-CIDR,5.28.192.0/21
 IP-CIDR,5.28.248.0/21
