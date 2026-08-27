@@ -1,0 +1,27 @@
+# --- [Autodesk & AutoCAD Licensing Direct Rules] ---
+DOMAIN-SUFFIX,autodesk.com,DIRECT
+DOMAIN-SUFFIX,autocad.com,DIRECT
+DOMAIN-SUFFIX,autodesk360.com,DIRECT
+DOMAIN-KEYWORD,autodesk,DIRECT
+
+# Сервисы авторизации и менеджер удостоверений (Identity Manager)
+DOMAIN,://autodesk.com,DIRECT
+DOMAIN,://autodesk.com,DIRECT
+DOMAIN,://autodesk.com,DIRECT
+DOMAIN,://autodesk.com,DIRECT
+DOMAIN,native.://autodesk.com,DIRECT
+DOMAIN,://autodesk.com,DIRECT
+DOMAIN,://autodesk.com,DIRECT
+DOMAIN,://autodesk.com,DIRECT
+
+# Центры сертификации (Проверка отзывов SSL/CRL) - Обязательно DIRECT
+DOMAIN-SUFFIX,digicert.com,DIRECT
+DOMAIN-SUFFIX,verisign.com,DIRECT
+DOMAIN-SUFFIX,amazontrust.com,DIRECT
+DOMAIN-SUFFIX,symcb.com,DIRECT
+DOMAIN-SUFFIX,symcd.com,DIRECT
+DOMAIN-SUFFIX,geotrust.com,DIRECT
+
+# Встроенные карты и геолокация в AutoCAD (Bing/VirtualEarth)
+DOMAIN-SUFFIX,virtualearth.net,DIRECT
+DOMAIN-SUFFIX,bing.com,DIRECT
