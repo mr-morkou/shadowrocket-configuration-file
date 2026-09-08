@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,mtalk.google.com
 
 # TG
 IP-CIDR,5.28.192.0/21
