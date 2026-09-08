@@ -12,7 +12,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,oaistatic
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,whatsapp-plus
-DOMAIN-KEYWORD,radiomast,force-remote-dns
+DOMAIN-KEYWORD,radiomast
 
 DOMAIN-SUFFIX,nts.live
 DOMAIN-SUFFIX,ntslive.net
@@ -108,9 +108,8 @@ DOMAIN-SUFFIX,gfw.ovh
 DOMAIN-SUFFIX,mos-gorsud.co
 DOMAIN-SUFFIX,dropoverapp.com
 
-DOMAIN-SUFFIX,radiomast.io,force-remote-dns
-IP-CIDR,185.132.164.0/22
-IP-CIDR,84.39.112.0/20
+DOMAIN-SUFFIX,radiomast.io
+
 
 # TG
 IP-CIDR,5.28.192.0/21
