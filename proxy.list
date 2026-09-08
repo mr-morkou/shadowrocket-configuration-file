@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,oaistatic
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,whatsapp-plus
+DOMAIN-KEYWORD,radiomast
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
@@ -102,7 +103,7 @@ DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,ntslive.net
 DOMAIN-SUFFIX,nts.live
 DOMAIN-SUFFIX,ntslive.co.uk
-DOMAIN-SUFFIX,radiomast.io
+
 
 
 # TG
