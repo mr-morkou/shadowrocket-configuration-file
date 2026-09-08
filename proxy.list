@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,gfw.ovh
 DOMAIN-SUFFIX,mos-gorsud.co
 DOMAIN-SUFFIX,dropoverapp.com
 DOMAIN-SUFFIX,rateyourmusic.com
+DOMAIN-SUFFIX,nts.live
 
 # TG
 IP-CIDR,5.28.192.0/21
