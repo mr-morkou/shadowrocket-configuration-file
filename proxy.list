@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,ntslive.net
 DOMAIN-SUFFIX,ntslive.co.uk
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,radiomast.io
 
 DOMAIN-SUFFIX,rateyourmusic.com
 DOMAIN-SUFFIX,ifconfig.me
@@ -108,7 +109,6 @@ DOMAIN-SUFFIX,gfw.ovh
 DOMAIN-SUFFIX,mos-gorsud.co
 DOMAIN-SUFFIX,dropoverapp.com
 
-DOMAIN-SUFFIX,radiomast.io
 
 
 # TG
