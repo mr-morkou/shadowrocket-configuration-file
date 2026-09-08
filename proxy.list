@@ -106,7 +106,7 @@ DOMAIN-SUFFIX,radiomast.io
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,googleapis.com
-
+DOMAIN-SUFFIX,firebaseapp.com
 
 # TG
 IP-CIDR,5.28.192.0/21
